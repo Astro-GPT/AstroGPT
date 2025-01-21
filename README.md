@@ -2,6 +2,6 @@
 
 <br><br>
 <p align="center">
-    <img src="./Logo/figure1.png" width="600"/>
+    <img src="./Logo/figure1.png" width="500"/>
 <p>
 <br>
